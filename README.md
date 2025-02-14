@@ -33,9 +33,15 @@
 ### Adjusting the Sound Sensor Sensitivity
 Use a **flat head screwdriver** to **adjust the potentiometer** on the KY-038 sound sensor module. This will modify its sensitivity to sound.  
 
+### The main code
+
+1. Download main.py
+2. Paste the code into visual studio and make sure your arduino is connected to your computer
+3. Run code and you should see the sound reading and anything thats too loud for the sensor will automatically shut down your computer.
+
 ## Troubleshooting
 If you're having trouble setting this up, check out this video tutorial:  
 [![Video Guide](https://img.youtube.com/vi/a1Kp1OtSwu8/0.jpg)](https://youtu.be/a1Kp1OtSwu8?si=kXYt0FaZDNoN5C5H)  
 ---
 
-Now your setup is ready to detect sound levels! 🎛️🔊  
+Now your setup is ready to detect any raging from league of legends! 🎛️🔊  
