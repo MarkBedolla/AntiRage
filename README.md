@@ -28,7 +28,7 @@
 1. Connect the **Arduino Uno** to your computer using the USB cable.  
 2. Download and install the **Arduino IDE** from [here](https://www.arduino.cc/en/software).  
 3. Open the Arduino IDE and **select the correct port** for your Arduino board.  
-4. Use code I have provided. 
+4. Use code in soundsensor.ino. Copy and paste into Arduino IDE.  
 
 ### Adjusting the Sound Sensor Sensitivity
 Use a **flat head screwdriver** to **adjust the potentiometer** on the KY-038 sound sensor module. This will modify its sensitivity to sound.  
